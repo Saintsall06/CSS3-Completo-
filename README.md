@@ -1,0 +1,91 @@
+Aqui estão todas as propriedades e seletores de CSS:
+
+Seletores
+- *: Seletor universal
+- #id: Seletor de ID
+- .class: Seletor de classe
+- tag: Seletor de tag
+- tag.class: Seletor de tag com classe
+- tag#id: Seletor de tag com ID
+- [attribute]: Seletor de atributo
+- [attribute="value"]: Seletor de atributo com valor
+- :pseudo-classe: Seletor de pseudo-classe (ex: :hover, :active, etc.)
+- ::pseudo-elemento: Seletor de pseudo-elemento (ex: ::before, ::after, etc.)
+
+Propriedades de Texto
+- color: Cor do texto
+- font-family: Família de fonte
+- font-size: Tamanho da fonte
+- font-style: Estilo da fonte (normal, itálico, etc.)
+- font-weight: Peso da fonte (normal, negrito, etc.)
+- text-align: Alinhamento do texto (esquerda, direita, centro, etc.)
+- text-decoration: Decoração do texto (sublinhado, riscado, etc.)
+- text-indent: Indentação do texto
+- text-overflow: Estouro de texto
+- text-rendering: Renderização de texto
+- text-shadow: Sombra de texto
+- text-transform: Transformação de texto (maiúsculo, minúsculo, etc.)
+
+Propriedades de Cor e Fundo
+- background: Cor de fundo
+- background-attachment: Anexo de fundo (fixo, scroll, etc.)
+- background-blend-mode: Modo de mistura de fundo
+- background-clip: Recorte de fundo
+- background-color: Cor de fundo
+- background-image: Imagem de fundo
+- background-origin: Origem de fundo
+- background-position: Posição da imagem de fundo
+- background-repeat: Repetição da imagem de fundo
+- background-size: Tamanho da imagem de fundo
+- border: Borda
+- border-bottom: Borda inferior
+- border-bottom-color: Cor da borda inferior
+- border-bottom-left-radius: Raio da borda inferior esquerda
+- border-bottom-right-radius: Raio da borda inferior direita
+- border-bottom-style: Estilo da borda inferior
+- border-bottom-width: Largura da borda inferior
+- border-collapse: Colapso de borda
+- border-color: Cor da borda
+- border-image: Imagem de borda
+- border-image-outset: Saída da imagem de borda
+- border-image-repeat: Repetição da imagem de borda
+- border-image-slice: Corte da imagem de borda
+- border-image-source: Fonte da imagem de borda
+- border-image-width: Largura da imagem de borda
+- border-left: Borda esquerda
+- border-left-color: Cor da borda esquerda
+- border-left-style: Estilo da borda esquerda
+- border-left-width: Largura da borda esquerda
+- border-radius: Raio da borda
+- border-right: Borda direita
+- border-right-color: Cor da borda direita
+- border-right-style: Estilo da borda direita
+- border-right-width: Largura da borda direita
+- border-style: Estilo da borda
+- border-top: Borda superior
+- border-top-color: Cor da borda superior
+- border-top-left-radius: Raio da borda superior esquerda
+- border-top-right-radius: Raio da borda superior direita
+- border-top-style: Estilo da borda superior
+- border-top-width: Largura da borda superior
+- border-width: Largura da borda
+
+Propriedades de Layout
+- display: Tipo de exibição (block, inline, etc.)
+- float: Flutuação (esquerda, direita, etc.)
+- clear: Limpeza de flutuação
+- margin: Margem
+- margin-bottom: Margem inferior
+- margin-left: Margem esquerda
+- margin-right: Margem direita
+- margin-top: Margem superior
+- padding: Preenchimento
+- padding-bottom: Preenchimento inferior
+- padding-left: Preenchimento esquerdo
+- padding-right: Preenchimento direito
+- padding-top: Preenchimento superior
+- width: Largura
+- height: Altura
+- max-width: Largura máxima
+- max-height: Altura máxima
+- `
